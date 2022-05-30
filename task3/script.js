@@ -3,7 +3,7 @@
 
 "use strict";
 
-function findElement(text, fruits = ["peach", "apple", "banana", "orange"]) {
+function findElement(banana, fruits = ["peach", "apple", "banana", "orange"]) {
   console.log(["peach", "apple", "banana", "orange"].includes("banana"));
 }
 findElement();
